@@ -1,0 +1,32 @@
+#Chopsticks Game
+Our goal is to make a chopsticks game.
+The rules are to make the opponent 'bust'.
+Each player  takes a turn to tap their opponent's hand (right or left). 
+Tapping the opponent's hand will add your current hand score to their's.
+If they reach 5 on any hand, that hand will bust.
+Players can split the values among the other hand, but will cost a turn.
+    Players who split may NOT have identical values in their hands (i.e. 3-2 cannot split to 2-3)
+Revival of hands IS allowed via splitting (0-2 can split to 1-1). 
+Players are NOT allowed to sacrifice a hand to increase the score of the other hand.
+Players who have received a tap and their hand score is OVER 5 will have the remainder as their current score
+
+#Todo
+Implement
+Game board frame.
+Functions to buttons.
+Main method.
+Math
+
+
+
+
+#Things We Need
+Java 1.8/ JDK 1.8
+IntelliJ IDE
+Git 
+https://git-scm.com/download/win
+
+Specs: Windows 10 
+
+Our Starting Ground Tutorial
+https://www.youtube.com/watch?v=5vSyylPPEko
